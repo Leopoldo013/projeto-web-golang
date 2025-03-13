@@ -1,8 +1,3 @@
-// @Title
-// @Description
-//@uthor
-// @Update
-
 package swatch
 
 import "fyne.io/fyne/v2/driver/desktop"
